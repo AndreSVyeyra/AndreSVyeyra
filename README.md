@@ -35,5 +35,4 @@ _*I'm a student passionate about programming *_ 🍁
 
 
 
-### This week I spent my time on ⏳
-![Andre's times](https://func.vogle.com/wakatime/AndreSVyeyra?row=3)
+
