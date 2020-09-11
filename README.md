@@ -1,7 +1,10 @@
 # Hi, I'm Andre! :D
 
 
-![programador](https://user-images.githubusercontent.com/56928555/92814626-cfcbb080-f399-11ea-8af3-c9e27d294775.gif)
+<img align='right' src="https://blog.bsource.com.br/assets/img/programador.gif" width="200">
+
+_*I'm a student passionate about programming *_ 🍁
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreSVyeyra)](https://github.com/AndreSVyeyra)
@@ -23,7 +26,7 @@
 
 ### About me
 
-I'm a student passionate about programming 😄💻
+
 
 
 
