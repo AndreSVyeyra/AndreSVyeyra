@@ -31,7 +31,14 @@ _*I'm a student passionate about programming *_ 🍁
 
 
 
-![AndreSVyeyra github stats](https://github-readme-stats.vercel.app/api?username=AndreSVyeyra)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSVyeyra&layout=compact)
+### Github Stats 🔣
+[![Github stats](https://github-readme-stats.vercel.app/api?username=AndreSVyeyra&show_icons=true&count_private=true&hide=issues&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/AndreSVyeyra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSVyeyra&layout=compact&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/AndreSVyeyra)
+
+
+
+### This week I spent my time on ⏳
+![Andre's times](https://func.vogle.com/wakatime/AndreSVyeyra?row=3)
 
 
 
