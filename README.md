@@ -31,7 +31,7 @@ _*I'm a student passionate about programming *_ 🍁
 
 
 
-
+![AndreSVyeyra github stats](https://github-readme-stats.vercel.app/api?username=AndreSVyeyra)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSVyeyra&layout=compact)
 
 
 
