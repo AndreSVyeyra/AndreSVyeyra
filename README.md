@@ -5,7 +5,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreSVyeyra)](https://github.com/AndreSVyeyra)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-dos-santos-vieira-b91562175/)](https://www.linkedin.com/in/andre-dos-santos-vieira-b91562175/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrevieira19992018@gmail.com)](andrevieira19992018@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.andrevieira19992018@gmail.com)](mailto:contato.andrevieira19992018@gmail.com)
+
 
 **Languages and Tools  :**
 
