@@ -1,7 +1,7 @@
-# Hi, I'm Andre!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hi, I'm Andre!  <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"></h2>
 
 
-<img  src="https://blog.bsource.com.br/assets/img/programador.gif">
+<img  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 _*I'm a student passionate about programming *_ 🍁
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
