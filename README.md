@@ -8,7 +8,7 @@ _*I'm a student passionate about programming *_ 🍁
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreSVyeyra)](https://github.com/AndreSVyeyra)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-dos-santos-vieira-b91562175/)](https://www.linkedin.com/in/andre-dos-santos-vieira-b91562175/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-vyeyra/)](https://www.linkedin.com/in/andre-vyeyra/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.andrevieira19992018@gmail.com)](mailto:contato.andrevieira19992018@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/andregonzagadossantosvieira.dossantos/)](https://www.facebook.com/andregonzagadossantosvieira.dossantos/)
 
