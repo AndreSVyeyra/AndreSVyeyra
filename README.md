@@ -4,7 +4,7 @@ I have a degree in Systems Analysis and Development Technician from Escola Técn
 
 I work as an IT assistant, providing technical assistance in the information systems process and technical analysis of computational infrastructure.
 
-I'm interested in front-end development and design.
+I'm interested in front-end development, programming, UX and Design.
 
 <br>
 </br>
