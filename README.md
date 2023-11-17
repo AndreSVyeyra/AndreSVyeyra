@@ -6,7 +6,7 @@ I work as an IT assistant, providing technical assistance in the information sys
 
 I'm interested in front-end development, programming, UX and Design.
 
-<br>
+</br>
 </br>
 
 <div align="center">
@@ -14,16 +14,18 @@ I'm interested in front-end development, programming, UX and Design.
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AndreSVyeyra&show_icons=true&count_private=true&hide=issues&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/AndreSVyeyra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSVyeyra&layout=compact&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/AndreSVyeyra)
 
-</div>
+</br>
+
 
 
 <p align="center">    
-  <code><img height="70" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif"></code>
-  <code><img height="70" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"></code>
-  <code><img height="70" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"></code>
-
+  <codde><img height="70"src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif"</codde>
+  <codde><img height="70"src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"</codde>
+  <codde><img height="60"src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"</codde>
+  <codde><img height="70"src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"</codde>
 </p>
-
+    
+</br>
 
 <div align="center">
   
