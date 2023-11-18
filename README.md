@@ -36,7 +36,6 @@ I'm interested in front-end development, programming, UX and Design.
 
 </div>
 
-![Snake animation](https://github.com/AndreSVyeyra/AndreSVyeyra/blob/output/github-contribution-grid-snake.svg)
 
 
 
