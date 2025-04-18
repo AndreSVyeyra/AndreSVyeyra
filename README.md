@@ -1,42 +1,52 @@
-## Welcome to my profile!
+# 👋 Bem-vindo ao meu GitHub!
 
-I have a degree in Systems Analysis and Development Technician from Escola Técnica Estadual Maria Emília Cantarelli. I am currently graduating in Software Engineering from Uninter University. I am an eternal student.
+> "Transformando ideias em código e criando experiências digitais únicas." 🚀
 
-I work as an IT assistant, providing technical assistance in the information systems process and technical analysis of computational infrastructure.
-
-I'm interested in front-end development, programming, UX and Design.
+Sou formado como Técnico em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software.  
+Tenho grande interesse em desenvolvimento front-end, programação, UX e design.  
+Sou apaixonado por tecnologia desde os 13 anos de idade e, desde então, me dedico constantemente a aprender novas ferramentas, linguagens e soluções que me aproximam dos meus objetivos profissionais.
 
 </br>
-</br>
+
+# 🎯 Estatísticas do GitHub
 
 <div align="center">
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AndreSVyeyra&show_icons=true&count_private=true&hide=issues&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/AndreSVyeyra)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSVyeyra&layout=compact&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/AndreSVyeyra)
-
-</br>
-
-
-
-<p align="center">    
-  <codde><img height="70"src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif"</codde>
-  <codde><img height="70"src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"</codde>
-  <codde><img height="60"src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"</codde>
-  <codde><img height="70"src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"</codde>
-</p>
-    
-</br>
-
-<div align="center">
-  
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreSVyeyra)](https://github.com/AndreSVyeyra)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-vyeyra/)](https://www.linkedin.com/in/andre-vyeyra/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.andrevieira19992018@gmail.com)](mailto:contato.andrevieira19992018@gmail.com)
-  [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/andregonzagadossantosvieira.dossantos/)](https://www.facebook.com/andregonzagadossantosvieira.dossantos/)
+<table>
+  <tr>
+    <td>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=AndreSVyeyra&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide=prs&custom_title=Estatísticas%20do%20GitHub%20de%20Andre%20Vieira"/>
+    </td>
+    <td>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSVyeyra&layout=compact&theme=tokyonight&hide_title=false"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+</br>
 
+# 🛠️ Habilidades
 
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 
+</div>
 
+</br>
+
+# 📫 Vamos nos conectar
+
+<div align="center">
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/AndreSVyeyra)](https://github.com/AndreSVyeyra)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-vyeyra/)](https://www.linkedin.com/in/andre-vyeyra/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato.andrevieira19992018@gmail.com)](mailto:contato.andrevieira19992018@gmail.com)
+
+</div>
