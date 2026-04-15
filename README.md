@@ -3,7 +3,6 @@
 > "Transformando ideias em código e criando experiências digitais únicas." 🚀
 
 Sou formado como Técnico em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software.  
-Tenho grande interesse em desenvolvimento front-end, programação, UX e design.  
 Sou apaixonado por tecnologia desde os 13 anos de idade e, desde então, me dedico constantemente a aprender novas ferramentas, linguagens e soluções que me aproximam dos meus objetivos profissionais.
 
 </br>
