@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia desde os 13 anos de idade e, desde então, me dedi
 
 </br>
 
-# 🎯 Estatísticas do GitHub
+#  Estatísticas do GitHub
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Sou apaixonado por tecnologia desde os 13 anos de idade e, desde então, me dedi
 
 </br>
 
-# 📫 Vamos nos conectar
+#  Vamos nos conectar
 
 <div align="center">
 
